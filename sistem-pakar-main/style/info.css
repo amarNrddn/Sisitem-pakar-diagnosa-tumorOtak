@@ -1,0 +1,29 @@
+.info {
+  max-width: 800px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #dfdfdf;
+}
+
+.info img {
+  max-width: 200px;
+}
+
+.info .images {
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.info figcaption {
+  margin: 10px 0;
+  color: #767676;
+  text-align: center;
+}
+
+.info .reference{
+  display: block;
+  font-style: italic;
+  margin: 10px 0;
+}
